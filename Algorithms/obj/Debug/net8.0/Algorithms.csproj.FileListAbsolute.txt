@@ -1,0 +1,14 @@
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\bin\Debug\net8.0\Algorithms.exe
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\bin\Debug\net8.0\Algorithms.dll
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.dll
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+c:\Users\Loure\OneDrive\Desktop\Algorythms\algorithms\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
